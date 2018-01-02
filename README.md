@@ -1,4 +1,5 @@
-# Features_time_series to model classification (Fraud - Churn - LAFT - etc)
+# Features_time_series to model classification 
+# (Fraud - Churn - LAFT - etc)
 * Pendiente**
 
 Este repositorio estrá relacionado con la primera charla del meetup de Machine learning colombia (https://www.meetup.com/es/ml-medellin/events/244705508/)
