@@ -2,7 +2,7 @@
 # (Fraud - Churn - LAFT - etc)
 * Pendiente**
 
-Este repositorio estrá relacionado con la primera charla del meetup de Machine learning colombia (https://www.meetup.com/es/ml-medellin/events/244705508/)
+Este repositorio está relacionado con la primera charla del meetup de Machine learning colombia (https://www.meetup.com/es/ml-medellin/events/244705508/)
 
 # Charla 1: Características de series de tiempo para un Modelo de clasificacion, en DSX de IBM y en H2O
 
